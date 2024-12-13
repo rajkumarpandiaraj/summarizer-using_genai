@@ -1,0 +1,8 @@
+streamlit
+langchain
+PyPDF2
+sentence-transformers
+langchain_community
+faiss-cpu
+langchain-google-genai
+pypdf
